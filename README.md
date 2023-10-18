@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently waiting for a oportunity in Web Development work
 
 <div align="center">
   <a href="https://github.com/JeanM-Pro">
