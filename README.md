@@ -36,15 +36,17 @@ Here are some ideas to get you started:
     <img align="center" alt="Logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg">
     <img align="center" alt="Logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg">
     <img align="center" alt="Logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain.svg">
-</div>
-  
+  </div>
+<hr>
+Featured Projects
+<br>
+<br>
+<div>
+<a target="_blank" href="https://receitas-toti.web.app/"><img src="https://i.ibb.co/37JXQD7/Screenshot-1.jpg" alt="Screenshot-1" border="0"></a>
 
-  
-  <div> 
-    
+</div>
+<hr>
+<div>
   <a href = "mailto:jeancenteno54@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jean-centeno-37962b218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-
-
 </div>
