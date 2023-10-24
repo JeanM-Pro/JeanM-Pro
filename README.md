@@ -42,11 +42,11 @@ Featured Projects
 <br>
 <br>
 <div>
-<a target="_blank" href="https://receitas-toti.web.app/"><img src="https://i.ibb.co/37JXQD7/Screenshot-1.jpg" alt="Screenshot-1" border="0"></a>
-
+<a target="_blank" href="https://receitas-toti.web.app/"><img src="https://i.ibb.co/37JXQD7/Screenshot-1.jpg" width="400" alt="Screenshot-1" border="0"></a>
+<a target="_blank" href="https://portafolio-e6fb8.web.app/"><img src="https://i.ibb.co/PTKCgH5/Screenshot-1.jpg" width="400" alt="Screenshot-1" border="0"></a>
 </div>
 <hr>
 <div>
-  <a href = "mailto:jeancenteno54@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:jeancenteno54@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jean-centeno-37962b218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
